@@ -10,6 +10,7 @@ A lightweight geolocation-based service finder API built with Golang, Gin, and a
 ### API Usage
 
 **GET** `http://localhost:8080/get-nearby?lat=30.733&lon=76.78&radius=2`
+
 **curl** `http://localhost:8080/get-nearby\?lat\=30.733\&lon\=76.78\&radius\=2 `
 ### Example Response
 ```json
