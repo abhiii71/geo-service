@@ -1,0 +1,20 @@
+[
+    {
+        "name": "City Hospital",
+        "category": "hospital",
+        "latitude": 30.7333,
+        "longitude": 76.7794
+    },
+    {
+        "name": "PNB ATM",
+        "category": "atm",
+        "latitude": 30.7328,
+        "longitude": 76.7910
+    },
+    {
+        "name": "Health Clinic",
+        "category": "hospital",
+        "latitude": 30.7356,
+        "longitude": 76.7700
+    }
+]
